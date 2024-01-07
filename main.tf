@@ -133,3 +133,5 @@ resource "azurerm_windows_virtual_machine" "appvm" {
     version   = "latest"
   }
 }
+
+#new line
